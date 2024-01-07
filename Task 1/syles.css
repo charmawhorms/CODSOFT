@@ -2,4 +2,25 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    color: #ffffff;
+}
+
+.body{
+    margin: 1em;
+    background-color: #1E1E1E;
+    color: #ffffff;
+}
+
+nav{
+    background-color: rgba(127, 127, 127, 42%);
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.font-Inter{
+    font-family: 'Inter', sans-serif;
+    color: red;
 }
